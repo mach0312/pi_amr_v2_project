@@ -1,3 +1,6 @@
 [submodule "double_steering_drive_controller"]
 	path = double_steering_drive_controller
 	url = https://github.com/mach0312/double_steering_drive_controller.git
+[submodule "submodule_test"]
+	path = submodule_test
+	url = https://github.com/mach0312/submodule_test.git
